@@ -11,7 +11,7 @@
   <properties>
 	  		<spring-version>5.1.8.RELEASE</spring-version>
 	  		<mybatis-version>3.5.0</mybatis-version>
-	  		<mysql-connector>5.1.48</mysql-connector>
+	  		<mysql-connector>8.0.16</mysql-connector>
 	  		<org-slf4j>1.7.28</org-slf4j>
 	  		<mybatis-spring>2.0.2</mybatis-spring>
 	  		<jackson-version>2.9.10</jackson-version>
